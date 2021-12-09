@@ -8,7 +8,7 @@ body {
 
 h1 {
   font-family: Helvetica, Courier, monospace;
-  font-size: 80px;
+  font-size: 70px;
   letter-spacing: 2px;
   word-spacing: 4px;
   color: #FFFFFF;
@@ -21,9 +21,10 @@ h1 {
 
 p {
   font-family: Helvetica, Courier, monospace;
-  font-size: 13px;
+  font-size: 12px;
   letter-spacing: 1px;
   line-height: 300%;
+  line-spacing: 300%;
   word-spacing: 2px;
   color: #FFFFFF;
   font-weight: 400;
