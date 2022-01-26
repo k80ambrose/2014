@@ -1,2 +1,2 @@
 # twentyfourteen
-this is a poem about a time and a color
+this poem is about a time and a color
