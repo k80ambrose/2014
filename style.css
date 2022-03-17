@@ -5,6 +5,10 @@ body {
   background: -webkit-linear-gradient(top, #33FFDD 0%, #FFFFFF 100%);
   background: linear-gradient(to bottom, #33FFDD 0%, #FFFFFF 100%);
   background-attachment: fixed;
+  -webkit-user-select:none;
+  -moz-user-select:-moz-none;
+  -ms-user-select:none;
+  user-select:none;
 }
 
 h1 {
